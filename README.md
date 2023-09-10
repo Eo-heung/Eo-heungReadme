@@ -66,6 +66,7 @@
 <div align="center">
 <img width="749" alt="기능" src="https://github.com/Eo-heung/front-end/assets/141110544/b74f1c9c-b5df-43aa-998b-f60b991cc1e0">
 </div>
+
 <br>
 
 # 5. 팀 소개
