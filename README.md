@@ -71,7 +71,9 @@
 
 # 5. 팀 소개
 
-![안녕](https://github.com/Eo-heung/front-end/assets/141110544/cf97576c-a02d-419a-a1c3-be6b1fe9c3c0)
+![046](https://github.com/Eo-heung/Eo-heungReadme/assets/141110544/7348ba75-e978-4057-9e28-f88750310b16)
+![047](https://github.com/Eo-heung/Eo-heungReadme/assets/141110544/1d04734f-3047-4df5-9508-10517c51a395)
+
 
 <br>
 
