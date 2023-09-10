@@ -38,6 +38,8 @@
   <img src="https://img.shields.io/badge/webRTC-123456?style=for-the-badge&logo=webRTC&logoColor=white">
 
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NaverCloud-GR?style=for-the-badge&logo=Naver&logoColor=white">
 
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
