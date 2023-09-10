@@ -2,9 +2,10 @@
 
 <div align="center">
 <img width="50%" src=https://github.com/Eo-heung/front-end/assets/141110544/bf8a268a-30c1-48f0-8fb2-fba754cf29fe>
+[![어흥 소개영상](http://img.youtube.com/vi/CQlKo_J9s74/0.jpg)](https://youtu.be/CQlKo_J9s74?t=0s) 
 </div>
 
-[![어흥 소개영상](http://img.youtube.com/vi/CQlKo_J9s74/0.jpg)](https://youtu.be/CQlKo_J9s74?t=0s) 
+
 
 # 목차 Index
 
