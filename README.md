@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-<img width="40%" src=https://github.com/Eo-heung/front-end/assets/141110544/bf8a268a-30c1-48f0-8fb2-fba754cf29fe>
+<img width="35%" src=https://github.com/Eo-heung/front-end/assets/141110544/bf8a268a-30c1-48f0-8fb2-fba754cf29fe>
 </div>
 
 <br/>
