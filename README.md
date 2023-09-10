@@ -22,12 +22,13 @@
 4. 팀소개
 5. 기간 및 일정
 
+   
 <br/>
 
 
 # 1. 개발배경
 
-고령층 인구 증가에 따른 2025년 초고령화 사회 진입 예정, 노인의 1인 가구수 증가하지만 <br> 부족한 노인시설로 인해 노인들의 교류활동에 문제가 되고 있다는 점에 착안하여 <br>"어르신들의 흥미로운 공간, 어흥"을 개발하였습니다.
+고령층 인구 증가에 따른 2025년 초고령화 사회 진입 예정, 노인의 1인 가구수 증가하지만 <br> 부족한 노인시설로 인해 노인들의 교류활동에 문제가 되고 있다는 점에 착안하여 <br> <b>"어르신들의 흥미로운 공간, 어흥"</b>을 개발하였습니다.
 
 <br/>
 
@@ -37,14 +38,17 @@
   <img src="https://img.shields.io/badge/java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white">   
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-
   <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
   <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+  
+  <br/>
 
-  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">  
   <img src="https://img.shields.io/badge/socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white">
   <img src="https://img.shields.io/badge/webRTC-123456?style=for-the-badge&logo=webRTC&logoColor=white">
+
+  <br/>
 
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/>
