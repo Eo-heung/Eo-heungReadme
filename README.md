@@ -10,13 +10,15 @@
 
 <div align="center">
   
-  <h2>시연영상</h2>
+  <h2>프로젝트 시연 영상</h2>
+  
   [![어흥 소개영상](http://img.youtube.com/vi/CQlKo_J9s74/0.jpg)](https://youtu.be/CQlKo_J9s74?t=0s) 
   
 </div>
 
 <div align="center">
-<h2>광고영상</h2>
+<h2>프로젝트 소개 영상</h2>
+  
 [![어흥 광고영상](http://img.youtube.com/vi/6GKtjdbhh3c/0.jpg)](https://youtu.be/6GKtjdbhh3c)
 </div>
 
